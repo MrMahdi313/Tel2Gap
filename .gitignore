@@ -140,6 +140,6 @@ venv/
 temp/
 tmp/
 .idea/
-settings.py
+.env
 *.session
 *.session-journal
